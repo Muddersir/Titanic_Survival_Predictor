@@ -1,0 +1,101 @@
+Prediction Result,Prediction Summary,Survival Probability,flag,username,timestamp
+"'
+        <div style='text-align: center; padding: 20px;'>
+            <div style='font-size: 48px; margin-bottom: 10px;'>🎉</div>
+            <h2 style='color: #10B981; margin-bottom: 10px;'>SURVIVED</h2>
+            
+            <div style='background-color: #F3F4F6; padding: 15px; border-radius: 10px; margin: 15px 0;'>
+                <h3 style='margin-top: 0;'>Survival Probability: <span style='color: #10B981;'>100.0%</span></h3>
+                <div style='background-color: #E5E7EB; height: 20px; border-radius: 10px; margin: 10px 0;'>
+                    <div style='background-color: #10B981; height: 100%; width: 100.0%; border-radius: 10px;'></div>
+                </div>
+                <p>Confidence: HIGH</p>
+            </div>
+            
+            <div style='background-color: #FEF3C7; padding: 15px; border-radius: 10px; margin-top: 20px;'>
+                <h4 style='margin-top: 0;'>Key Factors:</h4>
+                <ul style='text-align: left;'>
+                    <li>Class 1 🏰</li>
+                    <li>👩 Female</li>
+                    <li>Age: 29 years</li>
+                    <li>Fare: £211.34</li>
+                    <li>Family Size: 1</li>
+                </ul>
+            </div>
+        </div>
+        ",🎉 Passenger would have survived with 100.0% probability,1.0,,,2026-01-21 23:43:28.795005
+"'
+        <div style='text-align: center; padding: 20px;'>
+            <div style='font-size: 48px; margin-bottom: 10px;'>⚰️</div>
+            <h2 style='color: #EF4444; margin-bottom: 10px;'>DID NOT SURVIVE</h2>
+            
+            <div style='background-color: #F3F4F6; padding: 15px; border-radius: 10px; margin: 15px 0;'>
+                <h3 style='margin-top: 0;'>Survival Probability: <span style='color: #EF4444;'>0.0%</span></h3>
+                <div style='background-color: #E5E7EB; height: 20px; border-radius: 10px; margin: 10px 0;'>
+                    <div style='background-color: #EF4444; height: 100%; width: 0.0%; border-radius: 10px;'></div>
+                </div>
+                <p>Confidence: HIGH</p>
+            </div>
+            
+            <div style='background-color: #FEF3C7; padding: 15px; border-radius: 10px; margin-top: 20px;'>
+                <h4 style='margin-top: 0;'>Key Factors:</h4>
+                <ul style='text-align: left;'>
+                    <li>Class 3 🚢</li>
+                    <li>👨 Male</li>
+                    <li>Age: 25 years</li>
+                    <li>Fare: £7.25</li>
+                    <li>Family Size: 1</li>
+                </ul>
+            </div>
+        </div>
+        ",⚰️ Passenger would have did not survive with 0.0% probability,0.0,,,2026-01-21 23:43:28.847991
+"'
+        <div style='text-align: center; padding: 20px;'>
+            <div style='font-size: 48px; margin-bottom: 10px;'>🎉</div>
+            <h2 style='color: #10B981; margin-bottom: 10px;'>SURVIVED</h2>
+            
+            <div style='background-color: #F3F4F6; padding: 15px; border-radius: 10px; margin: 15px 0;'>
+                <h3 style='margin-top: 0;'>Survival Probability: <span style='color: #10B981;'>86.0%</span></h3>
+                <div style='background-color: #E5E7EB; height: 20px; border-radius: 10px; margin: 10px 0;'>
+                    <div style='background-color: #10B981; height: 100%; width: 86.0%; border-radius: 10px;'></div>
+                </div>
+                <p>Confidence: HIGH</p>
+            </div>
+            
+            <div style='background-color: #FEF3C7; padding: 15px; border-radius: 10px; margin-top: 20px;'>
+                <h4 style='margin-top: 0;'>Key Factors:</h4>
+                <ul style='text-align: left;'>
+                    <li>Class 2 🏠</li>
+                    <li>👩 Female</li>
+                    <li>Age: 14 years</li>
+                    <li>Fare: £30.50</li>
+                    <li>Family Size: 4</li>
+                </ul>
+            </div>
+        </div>
+        ",🎉 Passenger would have survived with 86.0% probability,0.86,,,2026-01-21 23:43:28.881995
+"'
+        <div style='text-align: center; padding: 20px;'>
+            <div style='font-size: 48px; margin-bottom: 10px;'>⚰️</div>
+            <h2 style='color: #EF4444; margin-bottom: 10px;'>DID NOT SURVIVE</h2>
+            
+            <div style='background-color: #F3F4F6; padding: 15px; border-radius: 10px; margin: 15px 0;'>
+                <h3 style='margin-top: 0;'>Survival Probability: <span style='color: #EF4444;'>20.0%</span></h3>
+                <div style='background-color: #E5E7EB; height: 20px; border-radius: 10px; margin: 10px 0;'>
+                    <div style='background-color: #EF4444; height: 100%; width: 20.0%; border-radius: 10px;'></div>
+                </div>
+                <p>Confidence: HIGH</p>
+            </div>
+            
+            <div style='background-color: #FEF3C7; padding: 15px; border-radius: 10px; margin-top: 20px;'>
+                <h4 style='margin-top: 0;'>Key Factors:</h4>
+                <ul style='text-align: left;'>
+                    <li>Class 1 🏰</li>
+                    <li>👨 Male</li>
+                    <li>Age: 45 years</li>
+                    <li>Fare: £50.00</li>
+                    <li>Family Size: 2</li>
+                </ul>
+            </div>
+        </div>
+        ",⚰️ Passenger would have did not survive with 20.0% probability,0.2,,,2026-01-21 23:43:28.917005
